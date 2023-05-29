@@ -1,0 +1,15 @@
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\obj\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.csproj.AssemblyReference.cache
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\obj\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\obj\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.AssemblyInfoInputs.cache
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\obj\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.AssemblyInfo.cs
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\obj\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.csproj.CoreCompileInputs.cache
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\bin\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.exe
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\bin\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.deps.json
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\bin\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.runtimeconfig.json
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\bin\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.dll
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\bin\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.pdb
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\obj\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.dll
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\obj\Debug\net7.0\refint\PROG6221_Part_2_GLOIRE_ST10101508.dll
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\obj\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.pdb
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\obj\Debug\net7.0\PROG6221_Part_2_GLOIRE_ST10101508.genruntimeconfig.cache
+C:\Users\bitem\OneDrive\Documents\C# Program\PROG6221_Part_2_GLOIRE_ST10101508\PROG6221_Part_2_GLOIRE_ST10101508\obj\Debug\net7.0\ref\PROG6221_Part_2_GLOIRE_ST10101508.dll
